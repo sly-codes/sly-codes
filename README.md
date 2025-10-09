@@ -1,31 +1,39 @@
 # 👋 Salut, moi c’est Issa !
 
-💻 **Développeur Web Junior** passionné par la création d’applications modernes et utiles.  
-🚀 J’aime apprendre, partager et construire des projets qui ont du sens.
+💻 **Développeur Web Full Stack** passionné par la conception d’applications performantes et modernes.  
+🎯 J’aime transformer des idées en projets concrets avec des technologies fiables et scalables.
 
 ---
 
 ### 🧠 Stack principale :
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+### 🚀 Ce que je fais actuellement :
+- 🔧 Développement d’applications web avec **Angular** & **NestJS**
+- 💾 Intégration de **bases de données PostgreSQL** via **Prisma**
+- 🌱 Amélioration continue de mes compétences back-end et clean architecture
+- 💼 En CDD après un stage de 3 mois dans le développement web
+
+---
+
+### 📂 Projets récents :
+- 🔗 [QR Card App](https://github.com/sly-codes/qr-card-app) — carte de visite numérique avec QR code  
+- 💬 [NGL Clone](https://github.com/sly-codes/ngl-clone) — app de messagerie anonyme  
+- 🧾 [Resource Booking App](https://github.com/sly-codes/resource-booking) — app de réservation de salles et ressources  
 
 ---
 
 ### 📈 Mes statistiques :
-![Issa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sly-codes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sly-codes&layout=compact&theme=radical)
-
----
-
-### 📂 Mes projets :
-- 🔗 [QR Card App](https://github.com/sly-codes/qr-card-app) — carte de visite numérique avec QR code  
-- 💬 [NGL Clone](https://github.com/sly-codes/ngl-clone) — app de messages anonymes  
-- 🧾 [Reservation App](https://github.com/sly-codes/resource-booking) — app de réservation de salles et ressources  
+![Issa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sly-codes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sly-codes&layout=compact&theme=tokyonight)
 
 ---
 
@@ -36,4 +44,4 @@
 
 ---
 
-> *“Le code est un outil, la vision fait la différence.”* 💡
+> *“Le code, c’est de la logique au service de l’imagination.”* 💡
