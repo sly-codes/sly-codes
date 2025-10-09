@@ -17,22 +17,22 @@
 ---
 
 ### 📈 Mes statistiques :
-![Issa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)
+![Issa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sly-codes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sly-codes&layout=compact&theme=radical)
 
 ---
 
 ### 📂 Mes projets :
-- 🔗 [QR Card App](https://github.com/tonpseudo/qr-card-app) — carte de visite numérique avec QR code  
-- 💬 [NGL Clone](https://github.com/tonpseudo/ngl-clone) — app de messages anonymes  
-- 🧾 [Reservation App](https://github.com/tonpseudo/resource-booking) — app de réservation de salles et ressources  
+- 🔗 [QR Card App](https://github.com/sly-codes/qr-card-app) — carte de visite numérique avec QR code  
+- 💬 [NGL Clone](https://github.com/sly-codes/ngl-clone) — app de messages anonymes  
+- 🧾 [Reservation App](https://github.com/sly-codes/resource-booking) — app de réservation de salles et ressources  
 
 ---
 
 ### 📫 Me contacter :
 - 📧 [tonemail@gmail.com]  
-- 💼 [LinkedIn](https://linkedin.com/in/tonpseudo)  
-- 🌐 [Portfolio](https://tonsiteweb.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sly-codes)  
+- 🌐 [Portfolio](https://sly.codes)
 
 ---
 
