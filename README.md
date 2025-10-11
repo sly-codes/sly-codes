@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Issa !
+# 👋 Hi, I'm Issa !
 
 💻 Full Stack Web Developer passionate about designing performant and modern applications.
 🎯 I enjoy transforming ideas into concrete projects with reliable and scalable technologies.
