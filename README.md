@@ -1,11 +1,7 @@
-# 👋 Hi, I'm Issa !
-
 💻 Full Stack Web Developer passionate about designing performant and modern applications.
 🎯 I enjoy transforming ideas into concrete projects with reliable and scalable technologies.
 
----
-
-### 🧠 Principale Stack :
+### 🧠 Principale Stack
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
