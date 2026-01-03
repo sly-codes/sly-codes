@@ -7,7 +7,7 @@ Je suis actuellement engagé dans un parcours intensif pour maîtriser l'ingéni
 J'ai conçu et développé une plateforme interactive pour structurer ma montée en compétences. C'est un guide ouvert à tous ceux qui souhaitent apprendre les fondamentaux du backend de manière ordonnée.
 
 - Site web : [roadmap.sly.codes](https://roadmap.sly.codes)
-- Dépôt : [java-backend-roadmap](https://github.com/sly-codes/nom-du-repo)
+- Dépôt : [java-backend-roadmap](https://github.com/sly-codes/backend-elite-2026)
 
 ---
 
@@ -24,6 +24,6 @@ Je ne prétends pas être un expert, mais un apprenant rigoureux. Mon objectif e
 Je crois fermement en l'Open Source. Si vous êtes un développeur expérimenté, vos conseils sur mes projets sont précieux. Si vous apprenez comme moi, n'hésitez pas à collaborer sur mes dépôts.
 
 ### Me contacter
-- LinkedIn : [linkedin.com/in/kisscoder](https://linkedin.com/in/kisscoder)
+- LinkedIn : [linkedin.com/in/kisscoder](https://linkedin.com/in/kiss-coder)
 - Portfolio : [sly.codes](https://sly.codes)
 - Email : ik3576898@gmail.com
