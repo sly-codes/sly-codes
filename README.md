@@ -1,5 +1,5 @@
-# Issa Koné | SLY.CODES
-## Junior Backend Developer & Tech Enthusiast
+# Issa Koné | sly.codes
+## Junior Backend Developer avec de l'experince en frontend & Tech Enthusiast
 
 Je suis actuellement engagé dans un parcours intensif pour maîtriser l'ingénierie backend avec Java et l'écosystème Spring Boot. Mon approche est basée sur le "Learning by Doing" : construire des outils réels pour consolider mon apprentissage.
 
