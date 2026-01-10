@@ -26,4 +26,4 @@ Je crois fermement en l'Open Source. Si vous êtes un développeur expérimenté
 ### Me contacter
 - LinkedIn : [linkedin.com/in/kisscoder](https://linkedin.com/in/kiss-coder)
 - Portfolio : [sly.codes](https://sly.codes)
-- Email : ik3576898@gmail.com
+- Email : kissadev10@gmail.com
