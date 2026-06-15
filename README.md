@@ -1,39 +1,74 @@
 <div align="center">
 
-# Issa Koné
+# 👋 Hi, I'm Issa Koné
+
 ### Software Engineer · Backend-Focused Developer
 
-*Passionate about building scalable business applications and backend systems.*
+Passionate about building scalable business applications, backend systems and enterprise software.
+
+<p>
+  <a href="https://sly.codes">🌐 Portfolio</a>
+</p>
 
 </div>
 
 ---
 
+## 🚀 Tech Stack
+
+<div align="center">
+
 ### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" title="NestJS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" title="Prisma" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" title="NestJS" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
+</p>
 
 ### Frontend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular" />
+</p>
+
+</div>
 
 ---
 
-### Current Focus
+<table>
+<tr>
+<td valign="top" width="33%">
+
+## 🎯 Current Focus
+
 - Backend Engineering
 - Software Architecture
 - Database Design
 - Enterprise Applications
 - System Design
 
-### Goals
+</td>
+
+<td valign="top" width="33%">
+
+## 📈 Goals
+
 - Become a strong Software Engineer
 - Master backend architecture and distributed systems
 - Grow toward Technical Lead responsibilities
 
----
+</td>
 
-Portfolio: [sly.codes](https://sly.codes)
+<td valign="top" width="33%">
+
+## 🌍 Contact
+
+**Portfolio**
+
+[sly.codes](https://sly.codes)
+
+</td>
+</tr>
+</table>
