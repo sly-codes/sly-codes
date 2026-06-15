@@ -47,7 +47,7 @@ Passionate about building scalable business applications, backend systems and en
 ## Goals
 
 - Become a strong Software Engineer
-- Master backend architecture
+- Master backend architecture & distributed systems
 - Grow toward Technical Lead
 
 </td>
