@@ -1,30 +1,25 @@
 <div align="center">
 
-# 👋 Hi, I'm Issa Koné
+#  Hi, I'm Issa Koné
 
 ### Software Engineer · Backend-Focused Developer
 
 Passionate about building scalable business applications, backend systems and enterprise software.
 
 <p>
-  <a href="https://sly.codes">🌐 Portfolio</a>
+  Explore my work at <a href="https://sly.codes">sly.codes</a>
 </p>
 
-</div>
-
----
-
-## 🚀 Tech Stack
-
+<table>
+<tr>
+<td valign="top" width="33%">
+  
 <div align="center">
 
 ### Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" title="NestJS" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" title="NestJS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" title="Prisma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
 </p>
 
 ### Frontend
@@ -32,42 +27,26 @@ Passionate about building scalable business applications, backend systems and en
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular" />
 </p>
+</td>
 
-</div>
-
----
-
-<table>
-<tr>
 <td valign="top" width="33%">
 
-## 🎯 Current Focus
+## Current Focus
 
 - Backend Engineering
 - Software Architecture
 - Database Design
-- Enterprise Applications
 - System Design
 
 </td>
 
 <td valign="top" width="33%">
 
-## 📈 Goals
+## Goals
 
 - Become a strong Software Engineer
-- Master backend architecture and distributed systems
-- Grow toward Technical Lead responsibilities
-
-</td>
-
-<td valign="top" width="33%">
-
-## 🌍 Contact
-
-**Portfolio**
-
-[sly.codes](https://sly.codes)
+- Master backend architecture
+- Grow toward Technical Lead
 
 </td>
 </tr>
