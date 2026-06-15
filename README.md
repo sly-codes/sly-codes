@@ -26,6 +26,8 @@ Passionate about building scalable business applications, backend systems and en
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" title="Sass" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" title="Tailwind CSS" />
 </p>
 </td>
 
