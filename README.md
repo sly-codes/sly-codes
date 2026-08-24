@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi there!, I'm Issa Koné
+#  Hi there!, I'm Koné Issa
 
 ### Software Engineer · Backend-Focused Developer 
 
