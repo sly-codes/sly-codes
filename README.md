@@ -2,7 +2,7 @@
 
 #  Hi there!, I'm Issa Koné
 
-### Software Engineer · Backend-Focused Developer
+### Software Engineer · Backend-Focused Developer 
 
 Passionate about building scalable business applications, backend systems and enterprise software.
 
