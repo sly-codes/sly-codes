@@ -1,4 +1,4 @@
-# kone issa
+# kone issa (sly.codes)
 
 [![Profile views](https://komarev.com/ghpvc/?username=sly-codes&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sly-codes)
 [![website](https://img.shields.io/badge/website-issa.nocerv.com-0e75b6?style=flat)](https://issa.nocerv.com)
