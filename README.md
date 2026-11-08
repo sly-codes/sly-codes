@@ -1,7 +1,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=sly-codes&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sly-codes)
 [![website](https://img.shields.io/badge/website-slyissa.nocerv.com-0e75b6?style=flat)](https://slyissa.nocerv.com)
 
-Backend engineering, creative coding & fun experiments.
+Building things from the ground up. One problem at a time.
 
 links: [personal website](https://slyissa.nocerv.com) - [X](https://x.com/@xkoneissa) - [LinkedIn](https://www.linkedin.com/in/koneissa)
 
