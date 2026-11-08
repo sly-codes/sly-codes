@@ -5,6 +5,6 @@ Backend engineering, creative coding & fun experiments.
 
 links: [personal website](https://issa.nocerv.com) - [X](https://x.com/@xkoneissa) - [LinkedIn](https://www.linkedin.com/in/koneissa)
 
-<!-- <img width="480" height="268" alt="Suggestion" src="https://github.com/user-attachments/assets/c9893c3b-062f-426a-a0cd-31eaf1cd338c" /> -->
-<img width="480" height="268" alt="Suggestion" src="./ban.gif" />
+<img width="480" height="268" alt="Suggestion" src="https://github.com/user-attachments/assets/c9893c3b-062f-426a-a0cd-31eaf1cd338c" />
+<!-- <img width="480" height="268" alt="Suggestion" src="./ban.gif" /> -->
 
