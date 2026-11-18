@@ -5,7 +5,7 @@ Building things from the ground up. One problem at a time.
 
 Build less. Understand more. Reuse what works. Keep complexity under control.
 
-links: [personal website](https://slyissa.nocerv.com) - [X](https://x.com/@xkoneissa) - [LinkedIn](https://www.linkedin.com/in/koneissa)
+links: [personal website](https://slyissa.nocerv.com) - [X](https://x.com/@xkoneissa) - [LinkedIn](https://www.linkedin.com/in/koneissa).
 
 <img width="480" height="268" alt="Suggestion" src="https://github.com/user-attachments/assets/c9893c3b-062f-426a-a0cd-31eaf1cd338c" />
 <!-- <img width="480" height="268" alt="Suggestion" src="./ban.gif" /> -->
